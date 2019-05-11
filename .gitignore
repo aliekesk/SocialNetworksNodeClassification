@@ -1,0 +1,16 @@
+# dataset
+dataset/
+
+# miscellaneous files
+**/*.docx
+**/*.pptx
+**/*.csv
+**/*.xlsx
+
+# editor 
+**/.vscode/
+**/.idea/
+**/.ipynb_checkpoints/
+
+# Mac System
+**/.DS_Store
