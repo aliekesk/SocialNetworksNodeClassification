@@ -19,3 +19,8 @@ In the last, the multiple models in part two will be tested and evaluated on sev
 ## 3. Submission
 
 * **Report LaTeX Template**: https://neurips.cc/Conferences/2019/PaperInformation/StyleFiles
+
+## 4. Experiment Record
+
+Experiment NO.   Model         Model Parameter       feature53_accuracy   feature54_accu   feature55_accu  total accuracy        ps
+example one      GCN       lr = 0.001, weight...           0.3                  0.3             0.3            0.3          add out degree
